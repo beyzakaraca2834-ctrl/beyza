@@ -13,7 +13,7 @@ Bu klasör (`~/claude`) **Claude derslerimin çalışma alanı**. Burada Claude 
 
 ## Git ve GitHub
 
-- Bu klasör kendi başına bir git deposu (dal: `main`). Ders notları ve bu dosya burada takip edilir.
+- Bu klasör kendi başına bir git deposu (dal: `main`), GitHub'daki `beyzakaraca2834-ctrl/beyza` deposuna bağlı (`origin`). Ders notları ve bu dosya burada takip edilir.
 - Kendi git deposu olan alıştırma projeleri `.gitignore` ile bu depodan hariç tutulur; onlar ayrı yedeklenir.
 - GitHub kullanıcı adım: `beyzakaraca2834-ctrl`. Bilgisayarda `gh` (GitHub komut satırı aracı) kurulu değil; GitHub'daki işlemleri web sitesinden yapıyorum.
 
